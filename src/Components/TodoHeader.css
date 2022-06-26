@@ -1,0 +1,19 @@
+.TodoHeader {
+    background-color: rgb(23, 23, 216);
+    color: white;
+    border-radius: 5px 5px 0 0;
+}
+
+.TodoHeader>h2 {
+    margin-bottom: 0;
+}
+
+.TodoHeader>p {
+    padding-bottom: 3px;
+    margin-top: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

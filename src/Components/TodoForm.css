@@ -1,0 +1,10 @@
+.input {
+    padding: 10px;
+    border: 1px solid gray;
+    font-size: 18px;
+    width: 75%;
+}
+
+.input:hover {
+    border: 1px solid rgb(157, 48, 48);
+}
